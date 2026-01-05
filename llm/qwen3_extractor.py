@@ -2,8 +2,8 @@ import requests
 from config.schema import SCHEMA
 from config.prompt import PROMPT_TEMPLATE
 
-API_URL = "https://e274eif4vpzm3j-8000.proxy.runpod.net/v1/chat/completions"
-API_KEY = "11056cc3fb10f655cd143de42e689cf2037366bade833f087164878be2278c62"
+API_URL = " "
+API_KEY = " "
 MODEL_NAME = "qwen3-coder"
 
 
