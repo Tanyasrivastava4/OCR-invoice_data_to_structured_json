@@ -1,0 +1,42 @@
+{
+  "invoice_number": "70284416",
+  "invoice_date": null,
+  "due_date": "04/15/2012",
+  "seller": {
+    "name": "Johnson PLC",
+    "address": "4332 Tina Lakes Suite 445 Chrisburgh, WV 43352"
+  },
+  "buyer": {
+    "name": "Marshall-Perez",
+    "address": "15760 Freeman Spur Apt. 935 South Timothyhaven, DE 52742"
+  },
+  "line_items": [
+    {
+      "item_no": 1,
+      "description": "Wine Glasses Set Of 4",
+      "quantity": "2,00",
+      "unit_price": "6,00",
+      "total": "12,00"
+    },
+    {
+      "item_no": 2,
+      "description": "Beautiful Blue Dolphin Wine Bottle Stopper New In Box",
+      "quantity": "3,00",
+      "unit_price": "5,99",
+      "total": "17,97"
+    }
+  ],
+  "subtotal": "29,97",
+  "tax_rate": "10%",
+  "total": "32,97",
+  "balance_due": "32,97",
+  "terms": null,
+  "extra_fields": {
+    "seller_tax_id": "973-86-4868",
+    "seller_iban": "GB15SYHN68815141579564",
+    "buyer_tax_id": "987-99-8588",
+    "net_worth_vat_percentage": "10%",
+    "net_worth_vat_amount": "3,00",
+    "gross_worth": "32,97"
+  }
+}

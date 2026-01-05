@@ -1,0 +1,44 @@
+{
+  "invoice_number": "INV-O00002",
+  "invoice_date": "O05 Aug 2024",
+  "due_date": "O05 Aug 2024 Due on Receipt",
+  "seller": {
+    "name": "Zylker Thread & Weave",
+    "address": "14B, Northern Street\nGreater South Avenue\nNew York 10001\nU.S.A"
+  },
+  "buyer": {
+    "name": "Scott, Melba R.",
+    "address": "2476 Blackwell Street\nFairbanks\n99701 Colorado\nU.S.A"
+  },
+  "line_items": [
+    {
+      "item_no": 1,
+      "description": "Pepe Jeans\nTapered fit Mid rise - Blue",
+      "quantity": 1,
+      "unit_price": 24.99,
+      "total": 24.99
+    },
+    {
+      "item_no": 2,
+      "description": "Boys Shirt\nSize - 36, Mosaic design",
+      "quantity": 1,
+      "unit_price": 16.99,
+      "total": 16.99
+    },
+    {
+      "item_no": 3,
+      "description": "Men Shirt\nSize - 36, Mosaic design",
+      "quantity": 1,
+      "unit_price": 19.99,
+      "total": 19.99
+    }
+  ],
+  "subtotal": 61.97,
+  "tax_rate": "5.00%",
+  "total": 65.06,
+  "balance_due": 65.06,
+  "terms": "Full payment is due upon receipt of this invoice. Late payments may incur additional charges or interest as per the applicable laws.",
+  "extra_fields": {
+    "ship_to_address": "2476 Blackwell Street\nFairbanks\n99701 Colorado\nU.S.A"
+  }
+}

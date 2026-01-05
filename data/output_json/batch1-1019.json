@@ -1,0 +1,60 @@
+{
+  "invoice_number": "78962884",
+  "invoice_date": "01/03/2019",
+  "due_date": null,
+  "seller": {
+    "name": "Thomas PLC",
+    "address": "096 Joseph Turnpike\nKimchester, TX 16870"
+  },
+  "buyer": {
+    "name": "Anderson-Rodriguez",
+    "address": "495 Andrea Lodge Apt. 112\nEast Brianchester, IN 75841"
+  },
+  "line_items": [
+    {
+      "item_no": "1",
+      "description": "PUMA Boys Youth Universal FG Jr Soccer Cleats 5 White High Risk Red Black 5Y",
+      "quantity": "3,00",
+      "unit_price": "19,99",
+      "total": "371,86"
+    },
+    {
+      "item_no": "2",
+      "description": "Florsheim kid's boys Lace Up Oxford Suede Dress Shoes Size 6M Solid Beige",
+      "quantity": "4,00",
+      "unit_price": "29,99",
+      "total": "119,96"
+    },
+    {
+      "item_no": "3",
+      "description": "Nike Air Jordan 1 Mid Obsidian 640735-174 Toddler Kids Children Size 8C Blue",
+      "quantity": "4,00",
+      "unit_price": "24,99",
+      "total": "99,96"
+    },
+    {
+      "item_no": "4",
+      "description": "The Children’s Place Brown Dress Boy Lace Up Shoes Size 12",
+      "quantity": "4,00",
+      "unit_price": "8,00",
+      "total": "32,00"
+    },
+    {
+      "item_no": "5",
+      "description": "Lotto Youth Boys Fuerzapura L500 Jr Soccer Cleats Size 1.5 Black Yellow N1385",
+      "quantity": "3,00",
+      "unit_price": "19,99",
+      "total": "59,97"
+    }
+  ],
+  "subtotal": "371,86",
+  "tax_rate": "10%",
+  "total": "409,05",
+  "balance_due": "409,05",
+  "terms": null,
+  "extra_fields": {
+    "seller_tax_id": "965-91-1363",
+    "seller_iban": "GB24FBNX04499177844340",
+    "buyer_tax_id": "970-72-3048"
+  }
+}

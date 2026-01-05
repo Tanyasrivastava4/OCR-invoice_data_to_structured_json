@@ -1,0 +1,40 @@
+{
+  "invoice_number": "TWS/05/25-26",
+  "invoice_date": "Oct 14, 2025",
+  "due_date": null,
+  "seller": {
+    "name": "The Whitespaces",
+    "address": "901, ViciniaTower C, Chandvili Village, Saki Powai Road, Andheri E, Mumbai 400072, Maharashtra, India"
+  },
+  "buyer": {
+    "name": "Intileo Technologies LLP",
+    "address": "C-2518, Sushant Lok-1, Sector 43,, Gurgaon, Haryana, Haryana, India - 122002"
+  },
+  "line_items": [
+    {
+      "item_no": null,
+      "description": "Content Development and Faciliation",
+      "quantity": "1",
+      "unit_price": "94,500.00",
+      "total": "1,11,510.00"
+    }
+  ],
+  "subtotal": "94,500.00",
+  "tax_rate": "18%",
+  "total": "21,11,510.00",
+  "balance_due": null,
+  "terms": "Payment to be made within 10 days of Invoice.",
+  "extra_fields": {
+    "gst_in_seller": "27AAXFT2384B1ZT",
+    "pan_seller": "AAXFT2384B",
+    "gst_in_buyer": "OGAAHFIO291C1Z5",
+    "pan_buyer": "AAHFIO291C",
+    "igst_amount": "17,010.00",
+    "amount_in_words": "ONE LAKH ELEVEN THOUSAND FIVE HUNDRED TEN RUPEES ONLY",
+    "bank_account_name": "THE WHITESPACES",
+    "bank_account_number": "000405162506",
+    "ifsc_code": "Iclcoo00004",
+    "account_type": "Current",
+    "bank_name": "ICICI"
+  }
+}

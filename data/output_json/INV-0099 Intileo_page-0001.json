@@ -1,0 +1,53 @@
+{
+  "invoice_number": "CERT/25-26/099",
+  "invoice_date": "5-May-25",
+  "due_date": null,
+  "seller": {
+    "name": "MAVERICK QUALITY ADVISORY SERVICES PVT LTD",
+    "address": "123, RADHEY SHYAM PARK , SAHIBABAD-"
+  },
+  "buyer": {
+    "name": "Intileo Technologies LLP",
+    "address": "C2518, Sushant Lok 1, Sector 43, Gurgaon, Haryana — 122002"
+  },
+  "line_items": [
+    {
+      "item_no": 41,
+      "description": "Professional Receipts-Cyber Security Security audit for hitps./nerpe.gov.in",
+      "quantity": null,
+      "unit_price": 18000.00,
+      "total": 21240.00
+    }
+  ],
+  "subtotal": 18000.00,
+  "tax_rate": 18.0,
+  "total": 21240.00,
+  "balance_due": null,
+  "terms": "We declare that we are registered under the MSMED Act and request payment within 45 days of service receipt as per Section 15 of the MSMED Act, 2006.",
+  "extra_fields": {
+    "irn": "20e4ff6770aT3f0aec206e095a7e0de35be55a186850br-677632988fc4b46709",
+    "ack_no": "142517537954476",
+    "ack_date": "6Jun-25",
+    "udyam": "UDYAM-UP-29-0006047 (Small)",
+    "gstuin_seller": "O9AAECM4444M1Z3",
+    "state_name_seller": "Uttar Pradesh",
+    "state_code_seller": "09",
+    "cin": "U7414DL2005PTC139242",
+    "buyer_gstin": "OBAAHFIO291C1ZS",
+    "buyer_state_name": "Haryana",
+    "buyer_state_code": "06",
+    "delivery_note_date": "6Jun-25",
+    "reference_no_date": "CERT/25-26/0014 dt. 15-Apr-25",
+    "buyer_order_no": "PO/INT/25-26/1001",
+    "dispatch_doc_no": null,
+    "dispatched_through": "Destination",
+    "hsn_sac": "998399",
+    "igst_rate": 18.0,
+    "igst_amount": 3240.00,
+    "company_pan": "AAECM4444M",
+    "bank_name": "BANK OF INDIA",
+    "bank_account_no": "714620110000002",
+    "branch_ifsc": "Radhey Shyam Park, Sahibabad & BKIDO007146",
+    "msme_number": "UDYAM-UP-29-0006047 (Small)"
+  }
+}

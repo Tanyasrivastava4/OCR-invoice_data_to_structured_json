@@ -1,0 +1,45 @@
+{
+  "invoice_number": "TH 31-Mar-24",
+  "invoice_date": "31-Mar-24",
+  "due_date": null,
+  "seller": {
+    "name": "INTILEO TECHNOLOGIES LLP",
+    "address": "C-2518, Sushant Lok 1, Sector 43, Gurgaon -122002"
+  },
+  "buyer": {
+    "name": "ERNET INDIA",
+    "address": "5TH FLOOR, BLOCK-I, A-WING, DMRC IT PARK, Shastri Park Road, New Delhi, North East Delhi"
+  },
+  "line_items": [
+    {
+      "item_no": null,
+      "description": "Domain One Year",
+      "quantity": "1.00",
+      "unit_price": null,
+      "total": "1.18"
+    }
+  ],
+  "subtotal": null,
+  "tax_rate": "18%",
+  "total": "1.18",
+  "balance_due": null,
+  "terms": "We declare that we are registered under the MSMED Act and request payment within 45 days of service receipt as per Section 15 of the MSMED Act, 2006.",
+  "extra_fields": {
+    "udyam_registration_no": "HR-05-001 6576",
+    "gstuin": "O6AAHF10291C1ZS",
+    "state_name_seller": "Haryana",
+    "state_code_seller": "06",
+    "gstuin_buyer": "O7AAATE0202A2ZS",
+    "state_name_buyer": "Delhi",
+    "state_code_buyer": "07",
+    "company_pan": "AAHFI0291C",
+    "bank_account_holder_name": "Intileo Technologies LLP",
+    "bank_name": "ICICI BANK",
+    "bank_account_no": "031405004844",
+    "branch_ifs_code": "Millennium Plaza & ICIC0007393",
+    "swift_code": "ICICINBBCTS",
+    "msme_number": "UDYAM-HR-05-0016576",
+    "amount_in_words": "Indian Rupees One and Eighteen paise Only",
+    "tax_amount_in_words": "Eighteen paise Only"
+  }
+}

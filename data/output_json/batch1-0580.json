@@ -1,0 +1,57 @@
+{
+  "invoice_number": "47089332",
+  "invoice_date": null,
+  "due_date": "08/20/2017",
+  "seller": {
+    "name": "Thompson Group",
+    "address": "78468 Williams Port Suite 634 Sandrabury, MN 36834"
+  },
+  "buyer": {
+    "name": "Green, Jackson and Farley",
+    "address": "2167 Lori Heights Apt. 384 New Kelly, TX 50472"
+  },
+  "line_items": [
+    {
+      "item_no": 1,
+      "description": "Floral Style Vintage 5X7 Handmade Bidjar Foyer Rug Oriental Home Decor Carpet",
+      "quantity": 5,
+      "unit_price": 5.00,
+      "total": 25.00
+    },
+    {
+      "item_no": 2,
+      "description": "Fashion Home Rectangle Area Rug Door Floor Bedroom Livingroom Carpet Mat 60*90cm",
+      "quantity": 2,
+      "unit_price": 2.00,
+      "total": 4.00
+    },
+    {
+      "item_no": 3,
+      "description": "Egg Shape Area Rugs Soft Cotton Carpet Floor Mat for Kids Study Playroom",
+      "quantity": 1,
+      "unit_price": 1.00,
+      "total": 1.00
+    },
+    {
+      "item_no": 4,
+      "description": "Semi Antique Classic Ivory 9'5X12'6 Handmade Living Room Oriental Rug Carpet",
+      "quantity": 1,
+      "unit_price": 1.00,
+      "total": 1.00
+    }
+  ],
+  "subtotal": 5389.56,
+  "tax_rate": 10,
+  "total": 5928.52,
+  "balance_due": null,
+  "terms": null,
+  "extra_fields": {
+    "seller_tax_id": "997-70-4028",
+    "seller_iban": "GB82VPWL04121428059686",
+    "buyer_tax_id": "912-86-6428",
+    "net_price": "889,62",
+    "net_worth": "4 448,10",
+    "vat_percentage": "10%",
+    "gross_worth": "5 928,52"
+  }
+}

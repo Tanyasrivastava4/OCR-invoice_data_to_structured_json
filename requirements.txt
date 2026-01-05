@@ -1,0 +1,10 @@
+pytesseract
+opencv-python
+numpy
+pandas
+requests
+#transformers
+#torch
+sentencepiece
+pdf2image
+poppler-utils

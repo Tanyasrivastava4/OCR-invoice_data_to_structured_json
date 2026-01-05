@@ -1,0 +1,32 @@
+{
+  "invoice_number": "19512841",
+  "invoice_date": "06/18/2012",
+  "due_date": null,
+  "seller": {
+    "name": "Camacho-Stewart",
+    "address": "99489 Brown Stream\nWhitetown, NY 24886"
+  },
+  "buyer": {
+    "name": "Fleming Ltd",
+    "address": "55160 Robert Way\nJamesland, KY 92755"
+  },
+  "line_items": [
+    {
+      "item_no": "1",
+      "description": "10-Core Gaming Computer 2,00\nDesktop PC Tower 500 GB Quad\n8GB AMD R7 GRAPHICS NEW",
+      "quantity": null,
+      "unit_price": "501,32",
+      "total": "1 002,64"
+    }
+  ],
+  "subtotal": "1 002,64",
+  "tax_rate": "10%",
+  "total": "1 102,90",
+  "balance_due": null,
+  "terms": null,
+  "extra_fields": {
+    "seller_tax_id": "971-74-5288",
+    "seller_iban": "GB42KUJL76533439438067",
+    "buyer_tax_id": "914-75-0393"
+  }
+}
