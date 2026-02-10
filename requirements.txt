@@ -1,6 +1,6 @@
 pytesseract
 opencv-python
-numpy
+numpy<2
 pandas
 requests
 #transformers
